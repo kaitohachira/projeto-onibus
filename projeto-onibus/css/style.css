@@ -1,0 +1,15 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color: #E9EDC9;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    padding: 300px;
+    width: 575px;
+    height: 258px;
+    left: 86px;
+    top: 216px;
+}
